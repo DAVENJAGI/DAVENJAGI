@@ -1,10 +1,10 @@
 ```json
 {
   "first_name": "David",
-  "last_name": "Kimanthi Njagi",
+  "last_name": "Njagi",
   "telephone_no": "+254796894542",
   "email": "njagidave39@gmail.com",
-  "location": "Kenya"
+  "location": "Nairobi, Kenya"
 }
 ```
 
