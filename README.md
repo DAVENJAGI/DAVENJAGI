@@ -2,7 +2,7 @@
 {
   "first_name": "David",
   "last_name": "Kimanthi Njagi",
-  "telephone_no": "+2547XXXXXXXX",
+  "telephone_no": "+254796894542",
   "email": "njagidave39@gmail.com",
   "location": "Kenya"
 }
