@@ -1,16 +1,11 @@
-<div align="right">
-<pre>
-<code>
+```json
 {
   "first_name": "David",
   "last_name": "Kimanthi Njagi",
-  "telephone_no": "+254712345678",
+  "telephone_no": "+2547XXXXXXXX",
   "email": "njagidave39@gmail.com",
   "location": "Kenya"
 }
-</code>
-</pre>
-</div>
 
 
 ## Hi there 👋
