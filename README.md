@@ -1,5 +1,5 @@
 
-```json
+```http
 HTTP/1.1 200 OK  
 Server: nginx/1.24.0  
 Date: Mon, 19 May 2025 12:49:16 GMT  
@@ -7,7 +7,6 @@ Content-Type: application/json
 Content-Length: 122  
 Access-Control-Allow-Origin: *  
 Connection: close  
-
 
 {
   "first_name": "David",
