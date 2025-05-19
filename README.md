@@ -6,7 +6,7 @@
   "email": "njagidave39@gmail.com",
   "location": "Kenya"
 }
-
+```
 
 ## Hi there 👋
 
