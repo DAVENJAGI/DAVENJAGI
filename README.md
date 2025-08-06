@@ -99,7 +99,7 @@ If you’re building a project in healthtech, IoT, real estate tech, or backend 
 - 🌍 GitHub: [@DAVENJAGI](https://github.com/DAVENJAGI)
 - 💼 LinkedIn: [David Kimanthi Njagi](https://www.linkedin.com/in/davenjagi)
 - 🌐 Portfolio: [davenjagi.netlify.app](https://davenjagi.netlify.app)
-- 📄 Resume: resume-davenjagi.netlify.app
+- 📄 Resume: [resume-davenjagi.netlify.app](https://resume-davenjagi.netlify.app)
 
 ---
 
